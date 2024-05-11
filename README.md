@@ -1,2 +1,2 @@
 # Stochastic Programming
-Implementing "Introduction to Stochastic Programming" by Birge and Louveaux 
+Implementing problems from "Introduction to Stochastic Programming" by Birge and Louveaux 
